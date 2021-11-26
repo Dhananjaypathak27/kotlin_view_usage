@@ -8,7 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-<!--    for light mode-->
-    <color name="backgroundColor">#fcfcfc</color>
-    <color name="textColor">#000000</color>
+    <!--    for dark mode-->
+    <color name="backgroundColor">#212121</color>
+    <color name="textColor">#ffffff</color>
 </resources>
